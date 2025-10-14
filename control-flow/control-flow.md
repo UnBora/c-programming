@@ -22,6 +22,7 @@ They let the program make decisions, repeat actions, or jump to different parts 
 if (condition) {
     // Executes if condition is true
 }
+```
 
 
 ```mermaid
