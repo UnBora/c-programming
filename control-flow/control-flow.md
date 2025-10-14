@@ -24,6 +24,7 @@ if (condition) {
 }
 
 
+```mermaid
 flowchart TD
     A([Start]) --> B[Initialize i = 0]
     B --> C{Condition: i < n?}
@@ -31,3 +32,5 @@ flowchart TD
     D --> E[Increment i++]
     E --> C
     C -- No --> F([End])
+```
+
